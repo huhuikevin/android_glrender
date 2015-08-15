@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="src" path="/my-gdx-game-core"/>
+	<classpathentry exported="true" kind="lib" path="D:/sourcecodec/libgdx/dist/gdx-backend-android.jar" sourcepath="D:/sourcecodec/libgdx/dist/sources/gdx-backend-android-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/sourcecodec/libgdx/dist/extensions/gdx-box2d/gdx-box2d.jar" sourcepath="D:/sourcecodec/libgdx/dist/extensions/gdx-box2d/sources/gdx-box2d-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/sourcecodec/libgdx/dist/gdx.jar" sourcepath="D:/sourcecodec/libgdx/dist/sources/gdx-sources.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
